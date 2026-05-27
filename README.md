@@ -20,14 +20,13 @@ Currently, I am expanding my knowledge in algorithms and data structures while b
 *(Note: All the pixel art icons below were custom-made by me!)*
 
 - **Languages:** 
-  <img src="c_sharp.png" width="25" align="center" alt="C#" /> C# &nbsp;&nbsp;
-  <img src="link-pixelart-python.png" width="25" align="center" alt="Python" /> Python &nbsp;&nbsp;
-  <img src="link-pixelart-java.png" width="25" align="center" alt="Java" /> Java &nbsp;&nbsp;
-  <img src="link-pixelart-sql.png" width="25" align="center" alt="SQL" /> SQL
+  <img src="c_sharp.png" width="40" align="center" alt="C#" /> C# &nbsp;&nbsp;
+  <img src="python.png" width="40" align="center" alt="Python" /> Python &nbsp;&nbsp;
+  <img src="sql.png" width="40" align="center" alt="SQL" /> SQL
 
 - **Frameworks/Libs:** 
-  <img src="link-pixelart-dotnet.png" width="25" alt=".NET" /> ASP.NET Core &nbsp;&nbsp;
-  <img src="link-pixelart-blazor.png" width="25" alt="Blazor" /> Blazor &nbsp;&nbsp;
+  <img src="net.png" width="40" align="center" alt=".NET" /> ASP.NET Core &nbsp;&nbsp;
+  <img src="blazor.png" align="center" width="40" alt="Blazor" /> Blazor &nbsp;&nbsp;
   <img src="link-pixelart-pandas.png" width="25" alt="Pandas" /> Pandas &nbsp;&nbsp;
   <img src="link-pixelart-scikit.png" width="25" alt="Scikit-Learn" /> Scikit-Learn
 
