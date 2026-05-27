@@ -20,7 +20,7 @@ Currently, I am expanding my knowledge in algorithms and data structures while b
 *(Note: All the pixel art icons below were custom-made by me!)*
 
 - **Languages:** 
-  <img src="c_sharp.png" width="25" alt="C#" /> C# &nbsp;&nbsp;
+  <img src="c_sharp.png" width="30" alt="C#" /> C# &nbsp;&nbsp;
   <img src="link-pixelart-python.png" width="25" alt="Python" /> Python &nbsp;&nbsp;
   <img src="link-pixelart-java.png" width="25" alt="Java" /> Java &nbsp;&nbsp;
   <img src="link-pixelart-sql.png" width="25" alt="SQL" /> SQL
