@@ -27,8 +27,8 @@ Currently, I am expanding my knowledge in algorithms and data structures while b
 - **Frameworks/Libs:** 
   <img src="net.png" width="40" align="center" alt=".NET" /> ASP.NET Core &nbsp;&nbsp;
   <img src="blazor.png" align="center" width="40" alt="Blazor" /> Blazor &nbsp;&nbsp;
-  <img src="link-pixelart-pandas.png" width="25" alt="Pandas" /> Pandas &nbsp;&nbsp;
-  <img src="link-pixelart-scikit.png" width="25" alt="Scikit-Learn" /> Scikit-Learn
+  <img src="pandas.png" align="center" width="40" alt="Pandas" /> Pandas &nbsp;&nbsp;
+  <img src="scikitlearn.png" align="center" width="40" alt="Scikit-Learn" /> Scikit-Learn
 
 - **Databases:** 
   <img src="link-pixelart-postgres.png" width="25" alt="PostgreSQL" /> PostgreSQL
