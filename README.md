@@ -1,4 +1,4 @@
-# Hi, I'm Antoni Eduardo
+# Hi, I'm Antônio Eduardo
 **Software Developer | .NET Ecosystem | Data-Driven Solutions**
 
 I am a Full-Stack Developer with a strong focus on building robust backend architectures and data-oriented applications. I specialize in bridging the gap between complex data processing (ETL/AI) and functional, scalable user interfaces. 
