@@ -5,6 +5,12 @@ I am a Full-Stack Developer with a strong focus on building robust backend archi
 
 Currently, I am expanding my knowledge in algorithms and data structures while building solutions that solve real-world problems.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntoniEduardoSO&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniEduardoSO&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+</div>
+<br/>
+
 ### 👨‍💻 What I Do
 - **Backend & Microservices:** Building scalable REST APIs and microservices using **C#** and **ASP.NET Core**.
 - **Modern Frontends:** Developing interactive, client-side web applications using **Blazor WebAssembly**.
@@ -43,5 +49,11 @@ A backend project focused on modern architectural patterns.
 When I'm not developing corporate systems or solving algorithms on LeetCode, I channel my creativity into Game Development and **Pixel Art**. 
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Link]
-- **Email:** [Your Email]
+<div align="left">
+  <a href="www.linkedin.com/in/antônio-eduardo-katochi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="antonio.edu0507@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
