@@ -6,8 +6,8 @@ I am a Full-Stack Developer with a strong focus on building robust backend archi
 Currently, I am expanding my knowledge in algorithms and data structures while building solutions that solve real-world problems.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntoniEduardoSO&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniEduardoSO&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AntoniEduardoSO&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AntoniEduardoSO&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 <br/>
 
